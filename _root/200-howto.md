@@ -19,7 +19,7 @@ by building from [sources](https://github.com/glk/pefs).
 ~~~~~~~~
 
 ~~~~~~~~
-# git clone git://github.com/glk/pefs.git pefs
+# git clone https://github.com/glk/pefs.git pefs
 # cd pefs
 # make obj all
 # make install
